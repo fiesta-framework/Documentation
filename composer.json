@@ -1,0 +1,6 @@
+{
+	"name": "fiesta/fiesta",
+	"description": "The Fiesta PHP Framework.",
+	"keywords": ["framework", "fiesta"],
+	"license": "MIT"
+}
