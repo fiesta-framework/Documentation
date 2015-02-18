@@ -120,6 +120,9 @@
 				    			<li>
 				    				<ul>PHP >= 5.4</ul>
 				    			</li>
+				    			<li>
+				    				<ul>Activation de Extension mod_rewrite dans Apache.</ul>
+				    			</li>
 			    			</div>
 			    			<div class="space-up">
 				    			<h3>Configuration</h3>
