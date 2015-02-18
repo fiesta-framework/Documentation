@@ -407,7 +407,7 @@ input:focus, textarea:focus {
 	background: url(../../resources/images/icon/noise2.png), radial-gradient(ellipse at center,  #666666 0%,#383838 100%); /* W3C */
 	
 	position: relative;
-	margin-top: 95px;
+	margin-top: 59px;
 }
 .slider-frame {
 	height: 250px;
